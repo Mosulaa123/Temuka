@@ -1,0 +1,70 @@
+html{
+    background-color: black;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+    color: white;
+    margin-left: 41%;
+    margin-top: 1.3%;
+    font-size: 70px;
+    text-transform: uppercase;
+}
+p{
+    color: white;
+    font-size: 40px;
+    margin-top: -4%;
+    text-align: center;
+}
+img{
+    border:solid 5px white   
+}
+img{
+    width: 100%;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+#sheep{
+    border: solid 10px red
+}
+#sheep{
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 3%;
+}
+#salome{
+    text-align: center;
+    font-size: 15px;
+    margin-left: 95%;
+    margin-top: -44%;
+}
+#salome-photo{
+    margin-left: 35%;
+    width: 30%;
+    margin-top: 3%;
+    border:double 20px red;
+}
+#salome-div{
+width: 50%;
+margin-top: -37%;
+margin-left: 70%;
+}
+#salome-text{
+    font-size: 30px;
+    margin-right: 50%;
+}
+#hyperlink{
+    margin-left: -75%;
+    margin-top: -16%;
+    text-transform: uppercase;
+}
+#arrow{
+    width: 130px;
+    margin-left: 17%;
+    margin-top: -1%;
+    border: solid;
+}
